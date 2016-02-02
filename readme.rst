@@ -1,4 +1,16 @@
 #######################
+Coding Style
+#######################
+Allman notation
+
+#######################
+Members
+#######################
+Joseph Tam-Huang
+Vivek Kalia
+Gabriel Lee
+
+#######################
 Starter Webapp - Quotes
 #######################
 
