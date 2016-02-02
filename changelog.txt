@@ -1,2 +1,2 @@
-Data and Time               Change detail
+Date and Time               Change detail
 Feb 2, 2016 [3:51pm]        Initial forking of starter-quotes
