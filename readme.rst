@@ -9,7 +9,7 @@ Allman notation
 Members
 #######################
 Joseph Tam-Huang
-Vivek Kalia
+Vivek K. Kalia
 Gabriel Seonghyoung Lee
 
 #######################
