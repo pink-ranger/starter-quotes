@@ -1,4 +1,4 @@
 Date and Time               Change detail
+Feb 2, 2016 [4:23pm]        Change team member name
 Feb 2, 2016 [4:21om]        Added "title" to the top of README file
 Feb 2, 2016 [3:51pm]        Initial forking of starter-quotes
-Feb 2, 2016 [4:23pm]        Change team member name
