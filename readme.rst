@@ -1,3 +1,5 @@
+Title
+
 #######################
 Coding Style
 #######################
@@ -8,7 +10,7 @@ Members
 #######################
 Joseph Tam-Huang
 Vivek K. Kalia
-Gabriel Lee
+Gabriel Seonghyoung Lee
 
 #######################
 Starter Webapp - Quotes
