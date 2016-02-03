@@ -8,7 +8,7 @@ Members
 #######################
 Joseph Tam-Huang
 Vivek Kalia
-Gabriel Lee
+Gabriel Seonghyoung Lee
 
 #######################
 Starter Webapp - Quotes
