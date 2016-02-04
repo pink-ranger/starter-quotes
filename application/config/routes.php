@@ -43,6 +43,14 @@ $route['404_override'] = '';
 $route['lock/(:any)/(:any)'] = 'welcome/shucks';
 $route['sleep'] = 'first/zzz';
 $route['show/(:num)'] = 'first/gimme/$1';
+$route['dunno'] = function() {
+    $source = './data/surprise.jpg';
+    header("Content-type: image/jpg");
+    header('Content-Disposition: inline');
+    readfile($source);
+    die();
+};
+
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
