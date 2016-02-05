@@ -1,6 +1,8 @@
 <?php
-class Last extends Application {
-    function __construct() {
+class Last extends Application 
+{
+    function __construct() 
+    {
         parent::__construct();
     }
     function index() 

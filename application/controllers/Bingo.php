@@ -1,6 +1,8 @@
 <?php
-class Bingo extends Application {
-    function __construct() {
+class Bingo extends Application 
+{
+    function __construct() 
+    {
         parent::__construct();
     }
     
