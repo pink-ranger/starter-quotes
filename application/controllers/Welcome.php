@@ -8,7 +8,8 @@
  *
  * ------------------------------------------------------------------------
  */
-class Welcome extends Application {
+class Welcome extends Application 
+{
 
 	function __construct()
 	{

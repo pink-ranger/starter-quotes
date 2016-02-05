@@ -50,6 +50,7 @@ $route['dunno'] = function() {
     readfile($source);
     die();
 };
+$route['(.{4})/bingo'] = "bingo";
 $route['comp[0-9]+/[a-zA-Z0-9]*'] = 'wise/bingo'; 
 
 /* End of file routes.php */
