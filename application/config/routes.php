@@ -50,6 +50,7 @@ $route['dunno'] = function() {
     readfile($source);
     die();
 };
+$route['(.{4})/bingo'] = "bingo";
 
 
 /* End of file routes.php */
